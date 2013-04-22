@@ -1,3 +1,3 @@
 name: Mirai Nikki Plugin
-main: at.freschmushroom.bukkit.mirai_niki.MiraiNikkiPlugin
+main: at.freschmushroom.bukkit.mirai_nikki.MiraiNikkiPlugin
 version: _Alpha_1.0
